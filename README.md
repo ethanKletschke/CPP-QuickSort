@@ -2,5 +2,6 @@
 
 An implementation of quicksort in C++.
 
-# Table of Contents
-- 
+# Sources:
+
+- [W3Schools.com](https://www.w3schools.com/dsa/dsa_algo_quicksort.php) for concept.
